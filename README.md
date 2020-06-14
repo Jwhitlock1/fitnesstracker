@@ -1,2 +1,2 @@
 # workouttracker
-this is a workout tracker
+This workout tracker allows the user to keep track of what workouts they have done each day, and displays on the main landing page what workout they did most recently. Going to their dashboard they are able to view stats of their previous workouts over the last week, displayed dynamically using Chartjs. For this assignment the front end code was provided, and I created the links to server and database
